@@ -15,10 +15,10 @@ $ cd dumpUrlandJS
 $ chmod +x dumpUrlJS
 $ ./dumpUrlandJS
 ```
-## Note
+## Note:
 Make sure you already have those four tools in your $PATH.
 
-## Credit
+## Credit:
 - [tomnomnom](https://github.com/tomnomnom)
 - [Corben Leo](https://github.com/lc)
 - [003random](https://github.com/003random)
