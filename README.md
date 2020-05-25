@@ -11,6 +11,7 @@ A quick script I wrote for myself to automate the process of Fetching URLs and J
 Examples:
 ```bash
 $ git clone https://github.com/iamnihal/dumpUrlandJS
+$ cd dumpUrlandJS
 $ chmod +x dumpUrlJS
 $ ./dumpUrlandJS
 ```
