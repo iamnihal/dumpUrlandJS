@@ -8,7 +8,6 @@ onlygetallurls()
     read name
     echo -e "\n[+] Getting all the URLs from different sources [+]"
     cat "$FILE" | gau >> URL${name}.txt            #Tool used:- getallurls
-    cat "$FILE" | waybackurls >> URL${name}.txt        #Tool used:- waybackurls
     sort -uo URL${name}.txt URL${name}.txt
     echo "[+] Done [+]"
     echo "URLs are saved into URL${name}.txt file"
